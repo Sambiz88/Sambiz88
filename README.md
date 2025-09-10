@@ -1,16 +1,22 @@
-## Hi there 👋
+## 👨‍💻 About Me
 
-<!--
-**Sambiz88/Sambiz88** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Hi, I’m **Samy Bisaillon**, a Computer Engineering student at **Polytechnique Montréal** with a focus in **Applied Mathematics**.  
+I’m deeply interest by how math and technology shape modern finance, and I enjoy building tools and models that bring theory into practice.  
 
-Here are some ideas to get you started:
+## 🌱 Interests  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- **Quantitative Research and Development**
+- **Algorithmic Trading**  
+- **Factor Modelling**  
+- **Block Chain Technology**
+- **Risk Modelling**
+- **Big Data Mining**
+
+I am also interested in other fields related to my major, such as:
+
+- Computer Architecture
+- Operating Systems
+- High-Performance Computing
+- Networking
+- Computer Vision
+- Cloud Computing
