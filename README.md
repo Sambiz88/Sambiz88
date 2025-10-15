@@ -7,16 +7,13 @@ I’m deeply interest by how math and technology shape modern finance, and I enj
 
 - **Quantitative Research and Development**
 - **Algorithmic Trading**  
-- **Factor Modelling**  
-- **Block Chain Technology**
+- **Blockchain Technology**
 - **Risk Modelling**
-- **Big Data Mining**
 
 I am also interested in other fields related to my major, such as:
 
 - Computer Architecture
 - Operating Systems
 - High-Performance Computing
-- Networking
 - Computer Vision
 - Cloud Computing
