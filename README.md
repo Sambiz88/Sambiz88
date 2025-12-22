@@ -10,8 +10,8 @@ I’m **Samy Bisaillon**, a Computer Engineering student at **Polytechnique Mont
 
 ## Other Interests 
 
-- Computer Architecture
-- Operating Systems
-- High-Performance Computing
-- Embedded Systems
-- Cloud Computing
+- **Computer Architecture**
+- **Operating Systems**
+- **High-Performance Computing**
+- **Embedded Systems**
+- **Cloud Computing**
