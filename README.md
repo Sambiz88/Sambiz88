@@ -13,5 +13,4 @@ I’m **Samy Bisaillon**, a Computer Engineering student at **Polytechnique Mont
 - **Computer Architecture**
 - **Operating Systems**
 - **Computer Networking**
-- **Embedded Systems**
-- **Cloud Computing**
+
