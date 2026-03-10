@@ -6,7 +6,7 @@ I’m **Samy Bisaillon**, a Computer Engineering student at **Polytechnique Mont
 
 - **Quantitative Development**
 - **Algorithmic Trading**
-- **Stochastic Calculus**
+- **Financial Mathematics**
 
 ## Other Interests 
 
