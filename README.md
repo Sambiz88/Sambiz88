@@ -1,16 +1,9 @@
 ## 👨‍💻 About Me
 
-I’m **Samy Bisaillon**, a Computer Engineering student at **Polytechnique Montréal** with a focus in **Quantitative Finance**.  
+I’m **Samy Bisaillon**, a Computer Engineering student at **Polytechnique Montréal** with a focus in **Finance and Economics**.  
 
 ## Main Interests  
 
-- **Quantitative Development**
+- **Quantiative Research**
 - **Algorithmic Trading**
-- **Financial Mathematics**
-
-## Other Interests 
-
-- **Computer Architecture**
-- **Operating Systems**
-- **Computer Networking**
-
+- **Energy Trading**
