@@ -6,4 +6,4 @@ I’m **Samy Bisaillon**, a Computer Engineering student at **Polytechnique Mont
 
 - **Quantiative Research**
 - **Algorithmic Trading**
-- **Energy Trading**
+- **FinTech**
